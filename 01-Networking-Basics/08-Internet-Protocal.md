@@ -1,0 +1,7 @@
+# 2.IPv4 Structure
+- [Network, Host] number
+
+q6
+**physical network and logical IPv4 nerwork**
+
+- PDU [Data, Segment/Datagram, Packet, Frame, Bits]
