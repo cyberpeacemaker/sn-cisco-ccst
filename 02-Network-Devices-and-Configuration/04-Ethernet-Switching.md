@@ -10,6 +10,9 @@
 - [preamble, SFD, Dst MAC, Src Mac, type/length(**upper layer protocal encapsulated in**), Data, FCS]
 
 # 3.MAC Address
-- [224-239.255.255.255, ff00::/8] multicast ip > MAC [**01-00-5E, 33-3**3]
+- [224-239.255.255.255, ff00::/8] multicast ip > MAC [**01-00-5E, 33-33**]
 - **STP, LLDP**
 - 100Base-T [**speed in Mbps, basedband transmission, twiwted-pair cable**]
+
+
+**Multiple MAC entry < switch connect to switch**
