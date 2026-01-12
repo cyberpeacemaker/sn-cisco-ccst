@@ -39,23 +39,27 @@
 | 53          | UDP/TCP  | DNS (Domain Name System)            |
 | 67          | UDP      | DHCP Server                        |
 | 68          | UDP      | DHCP Client                        |
+| 69          | UDP      | Trivial File Transfer Protocal     |
 | 80          | TCP      | HTTP (Hypertext Transfer Protocol) |
 | 110         | TCP      | POP3 (Post Office Protocol v3)     |
 | 143         | TCP      | IMAP (Internet Message Access Protocol) |
-| 1433        | TCP      | Microsoft SQL Server               |
 | 161         | UDP      | SNMP (Simple Network Management Protocol) |
 | 194         | TCP      | IRC (Internet Relay Chat)          |
 | 443         | TCP      | HTTPS (HTTP Secure)                |
+---
 | 465         | TCP      | SMTPS (SMTP Secure)                |
 | 514         | UDP      | Syslog                            |
 | 587         | TCP      | SMTP (Mail Submission)             |
 | 993         | TCP      | IMAPS (IMAP Secure)                |
 | 995         | TCP      | POP3S (POP3 Secure)                |
+| 1433        | TCP      | Microsoft SQL Server               |
 | 3306        | TCP      | MySQL Database Server              |
 | 3389        | TCP      | RDP (Remote Desktop Protocol)      |
 | 5900        | TCP      | VNC (Virtual Network Computing)    |
 | 8080        | TCP      | HTTP Alternate (commonly used for proxies) |
 
+# TCP Header
+![tcp-header](image.png)
 
 # Common Service + port
 

@@ -4,5 +4,5 @@
 
 # 2. DHCP
 - DHCPv6 does not provide a default gateway address. This can only be obtained dynamically from the Router Advertisement message of the router.
-- DHCPv6 has a set of messages that is similar to those for DHCPv4. The DHCPv6 messages are SOLICIT, ADVERTISE, INFORMATION REQUEST, and REPLY
+- DHCPv6 has a set of messages that is similar to those for DHCPv4. The DHCPv6 messages are **SOLICIT, ADVERTISE, INFORMATION REQUEST, and REPLY**
 
