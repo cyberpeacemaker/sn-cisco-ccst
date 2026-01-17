@@ -12,6 +12,7 @@
 - cable **pinouts** (green and orange swapped)
 
 # 4. fiber-optic
+- **LC connector**
 - {single-mode, multimode}
 Feature,Single-mode (SMF),Multimode (MMF)
 Core Size,≈9μm (Tiny),50 to 62.5μm (Wide)
